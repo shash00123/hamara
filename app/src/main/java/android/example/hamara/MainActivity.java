@@ -25,6 +25,11 @@ public class MainActivity extends AppCompatActivity {
         // added this new line
 
     }
+    private int cool(){
+        int cool=0;
+        return cool;
+    }
+
 
 
 }
