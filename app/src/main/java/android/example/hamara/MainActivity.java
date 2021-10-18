@@ -27,4 +27,19 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
+
+
+
+
+
+
+    private int uncool(){
+        int uncool=1;
+        return uncool;
+    }
+
+
+
+
 }
