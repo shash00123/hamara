@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private int cool(){
-        int cool=0;
+        int cool=100;
         return cool;
     }
 
