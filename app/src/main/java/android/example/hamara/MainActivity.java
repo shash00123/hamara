@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         vp.setAdapter(adapter);
         TabLayout tab = (TabLayout) findViewById(R.id.sliding_tabs);
         tab.setupWithViewPager(vp);
-        //added  3
+        //added 10
 
         //added this in experiment branch
     }
